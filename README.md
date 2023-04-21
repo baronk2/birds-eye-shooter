@@ -8,6 +8,36 @@ This is a 2D top view (bird's eye) shooter with different rooms that can be ente
 
 ## Examples
 
+<img src="images/in-game-screenshots/01-spawn-room.png" alt="01-spawn-room.png" width=500>
+
+<img src="images/in-game-screenshots/02-spawn-room.png" alt="02-spawn-room.png" width=500>
+
+<img src="images/in-game-screenshots/03-shooting.png" alt="03-shooting.png" width=500>
+
+<img src="images/in-game-screenshots/04-shooting-enemy-hit.png" alt="04-shooting-enemy-hit.png" width=500>
+
+<img src="images/in-game-screenshots/05-door.png" alt="05-door.png" width=500>
+
+<img src="images/in-game-screenshots/06-door.png" alt="06-door.png" width=500>
+
+<img src="images/in-game-screenshots/07-door.png" alt="07-door.png" width=500>
+
+<img src="images/in-game-screenshots/08-game-over.png" alt="08-game-over.png" width=500>
+
+<img src="images/in-game-screenshots/09-locked-door-password.png" alt="09-locked-door-password.png" width=500>
+
+<img src="images/in-game-screenshots/10-locked-door-password.png" alt="10-locked-door-password.png" width=500>
+
+<img src="images/in-game-screenshots/11-locked-door-password-incorrect-password.png" alt="11-locked-door-password-incorrect-password.png" width=500>
+
+<img src="images/in-game-screenshots/12-locked-door-password-incorrect-password.png" alt="12-locked-door-password-incorrect-password.png" width=500>
+
+<img src="images/in-game-screenshots/13-locked-door-password-correct-password.png" alt="13-locked-door-password-correct-password.png" width=500>
+
+<img src="images/in-game-screenshots/14-locked-door-password-correct-password.png" alt="14-locked-door-password-correct-password.png" width=500>
+
+<img src="images/in-game-screenshots/15-locked-door-password-correct-password.png" alt="15-locked-door-password-correct-password.png" width=500>
+
 ## Demo / Develop
 There are a few different ways to run this Scratch code. It can be done offline or online. If you have a stable internet connection, the easiest way is to use Scratch's online editor.
 
@@ -32,6 +62,22 @@ There are a few different ways to run this Scratch code. It can be done offline 
 4. Enjoy!
 
 ## Controls
+
+(See also instructions in Spawn Room in-game)
+
+- WASD to move red player around room
+
+- Mouse pointer to aim
+
+- Click to shoot (must let one shot explode before firing next shot)
+
+- [Space] to enter new room when close enough to a door to open it
+
+- Z to toggle run mode which will temporarily disable shooting
+
+- X to respawn in Spawn Room if stuck on in-room objects
+
+- E to toggle "Remaining Enemies" stat
 
 ## Author
 Kevin Baron
